@@ -14,6 +14,7 @@ Level 1
 11. [Following the String](https://codeforces.com/problemset/problem/1927/B)
 12. [Sasha and the Drawing](https://codeforces.com/problemset/problem/1929/B)
 13. [Laura and Operations](https://codeforces.com/problemset/problem/1900/B)
+14. [Longest Divisors Interval](https://codeforces.com/problemset/status?my=on)
 
 
 Level 2

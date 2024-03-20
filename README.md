@@ -16,11 +16,14 @@ Level 1
 13. [Laura and Operations](https://codeforces.com/problemset/problem/1900/B)
 14. [Longest Divisors Interval](https://codeforces.com/problemset/status?my=on)
 15. [Left and Right Houses](https://codeforces.com/contest/1945/problem/C)
-16. [Emordnilap](https://codeforces.com/problemset/problem/1777/B)
+16. [Emordnilap](https://codeforces.com/problemset/problem/1777/B)`MOD`https://codeforces.com/problemset/problem/1894/B
 17. [Not Dividing](https://codeforces.com/problemset/problem/1794/B)
-18. 
+18. [Ideal Point](https://codeforces.com/problemset/problem/1795/B)
+19. [Two Out of Three](https://codeforces.com/problemset/problem/1894/B)
 
 
 Level 2
 1. [Swap and Unite](https://www.codechef.com/problems/SWAPUNITE)
 2. [Make It One](https://www.codechef.com/problems/MAKE_IT_ONE)
+3. [Mex Master](https://codeforces.com/problemset/problem/1806/B)
+4. [Odd Queries](https://codeforces.com/problemset/problem/1807/D)`Bit Manipulation`

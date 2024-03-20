@@ -15,6 +15,10 @@ Level 1
 12. [Sasha and the Drawing](https://codeforces.com/problemset/problem/1929/B)
 13. [Laura and Operations](https://codeforces.com/problemset/problem/1900/B)
 14. [Longest Divisors Interval](https://codeforces.com/problemset/status?my=on)
+15. [Left and Right Houses](https://codeforces.com/contest/1945/problem/C)
+16. [Emordnilap](https://codeforces.com/problemset/problem/1777/B)
+17. [Not Dividing](https://codeforces.com/problemset/problem/1794/B)
+18. 
 
 
 Level 2

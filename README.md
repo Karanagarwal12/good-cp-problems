@@ -28,3 +28,4 @@ Level 2
 2. [Make It One](https://www.codechef.com/problems/MAKE_IT_ONE)
 3. [Mex Master](https://codeforces.com/problemset/problem/1806/B)
 4. [Odd Queries](https://codeforces.com/problemset/problem/1807/D)`Bit Manipulation`
+5. [Make It Ugly](https://codeforces.com/problemset/problem/1954/B)

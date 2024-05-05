@@ -29,3 +29,4 @@ Level 2
 3. [Mex Master](https://codeforces.com/problemset/problem/1806/B)
 4. [Odd Queries](https://codeforces.com/problemset/problem/1807/D)`Bit Manipulation`
 5. [Make It Ugly](https://codeforces.com/problemset/problem/1954/B)
+6. [Yet Another Coin Problem](https://codeforces.com/problemset/problem/1934/B)

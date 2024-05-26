@@ -21,6 +21,7 @@ Level 1
 18. [Ideal Point](https://codeforces.com/problemset/problem/1795/B)
 19. [Two Out of Three](https://codeforces.com/problemset/problem/1894/B)
 20. [Palindromic Substrings](https://www.codechef.com/START129C/problems/GPL)
+21. [ Assembly via Remainders](https://codeforces.com/problemset/problem/1968/C)
 
 
 Level 2

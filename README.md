@@ -22,6 +22,8 @@ Level 1
 19. [Two Out of Three](https://codeforces.com/problemset/problem/1894/B)
 20. [Palindromic Substrings](https://www.codechef.com/START129C/problems/GPL)
 21. [ Assembly via Remainders](https://codeforces.com/problemset/problem/1968/C)
+21. [Balanced Shuffle (Easy)](https://codeforces.com/problemset/problem/1970/A1)
+
 
 
 Level 2
@@ -32,3 +34,6 @@ Level 2
 5. [Make It Ugly](https://codeforces.com/problemset/problem/1954/B)
 6. [Yet Another Coin Problem](https://codeforces.com/problemset/problem/1934/B)
 7. [Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C)
+
+
+Level 3

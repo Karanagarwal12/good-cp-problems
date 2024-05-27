@@ -22,6 +22,7 @@ Level 1
 19. [Two Out of Three](https://codeforces.com/problemset/problem/1894/B)
 20. [Palindromic Substrings](https://www.codechef.com/START129C/problems/GPL)
 21. [Balanced Shuffle (Easy)](https://codeforces.com/problemset/problem/1970/A1)
+22. [Helmets in Night Light](https://codeforces.com/problemset/problem/1876/A)
 
 
 Level 2

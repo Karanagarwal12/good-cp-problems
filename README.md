@@ -32,6 +32,7 @@ Level 2
 5. [Make It Ugly](https://codeforces.com/problemset/problem/1954/B)
 6. [Yet Another Coin Problem](https://codeforces.com/problemset/problem/1934/B)
 7. [Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C)
+8. [Binary Colouring](https://codeforces.com/contest/1977/problem/B)
 
 
 Level 3

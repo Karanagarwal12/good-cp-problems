@@ -23,6 +23,7 @@ Level 1
 20. [Palindromic Substrings](https://www.codechef.com/START129C/problems/GPL)
 21. [Balanced Shuffle (Easy)](https://codeforces.com/problemset/problem/1970/A1)
 22. [Helmets in Night Light](https://codeforces.com/problemset/problem/1876/A)
+23. [Olya and Game with Arrays](https://codeforces.com/problemset/problem/1859/B)
 
 
 Level 2

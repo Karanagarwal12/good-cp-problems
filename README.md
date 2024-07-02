@@ -24,6 +24,8 @@ Level 1
 21. [Balanced Shuffle (Easy)](https://codeforces.com/problemset/problem/1970/A1)
 22. [Helmets in Night Light](https://codeforces.com/problemset/problem/1876/A)
 23. [Olya and Game with Arrays](https://codeforces.com/problemset/problem/1859/B)
+24. [Heavy Intervals](https://codeforces.com/problemset/problem/1909/C)
+
 
 
 Level 2

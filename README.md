@@ -26,7 +26,7 @@ Level 1
 23. [Olya and Game with Arrays](https://codeforces.com/problemset/problem/1859/B)
 24. [Heavy Intervals](https://codeforces.com/problemset/problem/1909/C)
 25. [Maximum Sum](https://codeforces.com/contest/1946/problem/B)`Kadane's Algo`
-26. [Earning on Bets]{https://codeforces.com/problemset/problem/1979/C)`Math`
+26. [Earning on Bets](https://codeforces.com/problemset/problem/1979/C)`Math`
 
 
 Level 2

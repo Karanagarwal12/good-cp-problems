@@ -46,3 +46,4 @@ Level 3
 1. [Removal Game](https://www.cses.fi/problemset/task/1097/)
 2. [Counting Paths](https://www.cses.fi/problemset/task/1136/)`Trees`
 3. [World is Mine](https://codeforces.com/contest/1987/problem/D)
+4. [Hungry Games](https://codeforces.com/contest/1994/problem/C)

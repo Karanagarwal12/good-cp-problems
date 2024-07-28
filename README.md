@@ -27,6 +27,7 @@ Level 1
 24. [Heavy Intervals](https://codeforces.com/problemset/problem/1909/C)
 25. [Maximum Sum](https://codeforces.com/contest/1946/problem/B)`Kadane's Algo`
 26. [Earning on Bets](https://codeforces.com/problemset/problem/1979/C)`Math`
+27. [Matryoshkas](https://codeforces.com/problemset/problem/1790/D)`Basic Data Structures`
 
 
 Level 2

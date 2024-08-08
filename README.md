@@ -27,6 +27,7 @@ Level 1
 24. [Heavy Intervals](https://codeforces.com/problemset/problem/1909/C)
 25. [Maximum Sum](https://codeforces.com/contest/1946/problem/B)`Kadane's Algo`
 26. [Earning on Bets](https://codeforces.com/problemset/problem/1979/C)`Math`
+27. [Matryoshkas](https://codeforces.com/problemset/problem/1790/D)`Basic Data Structures`
 
 
 Level 2
@@ -39,6 +40,7 @@ Level 2
 7. [Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C)
 8. [Binary Colouring](https://codeforces.com/contest/1977/problem/B)
 9. [Elections](https://codeforces.com/contest/1978/problem/D)
+10. [You are so beautiful](https://codeforces.com/contest/1883/problem/F)
    
 
 
